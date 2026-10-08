@@ -1,0 +1,28 @@
+{
+  "name": "architecture-grind",
+  "owner": {
+    "name": "The Architecture Grind"
+  },
+  "plugins": [
+    {
+      "name": "documents-construction",
+      "source": "./plugins/documents-construction",
+      "description": "Drawing and spec reading, RFIs, submittals, change orders, closeout, and construction-phase documents. (31 skills, 17 commands)"
+    },
+    {
+      "name": "code-zoning",
+      "source": "./plugins/code-zoning",
+      "description": "Code reading, compliance checks, zoning, and approvals skills and commands. Reads current official sources; never quotes code from memory. (32 skills, 18 commands)"
+    },
+    {
+      "name": "design",
+      "source": "./plugins/design",
+      "description": "Design review, programming, and early-stage layout skills. (35 skills, 1 commands)"
+    },
+    {
+      "name": "business",
+      "source": "./plugins/business",
+      "description": "Contracts, fee estimates, and RFP responses. (3 skills, 0 commands)"
+    }
+  ]
+}

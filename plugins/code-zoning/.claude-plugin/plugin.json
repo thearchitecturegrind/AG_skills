@@ -1,0 +1,5 @@
+{
+  "name": "code-zoning",
+  "version": "0.1.0",
+  "description": "Code reading, compliance checks, zoning, and approvals skills and commands. Reads current official sources; never quotes code from memory. (32 skills, 18 commands)"
+}

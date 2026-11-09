@@ -17,7 +17,7 @@ Original skills for architecture workflows, organized as Claude Code plugins.
 3. Add the plugin (if new) to `.claude-plugin/marketplace.json`.
 
 ## Status
-v0.2: 101 skills + 36 commands across 4 plugins (design, code-zoning, documents-construction, business).
+v0.3: 114 skills + 36 commands across 5 plugins (design, code-zoning, documents-construction, business, mcp-connections).
 
 Skills work in the Claude app (zip upload) and Claude Code. Commands (`plugins/*/commands/`) work in Claude Code only.
 

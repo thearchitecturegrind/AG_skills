@@ -7,7 +7,7 @@
     {
       "name": "documents-construction",
       "source": "./plugins/documents-construction",
-      "description": "Drawing and spec reading, RFIs, submittals, change orders, closeout, and construction-phase documents. (31 skills, 17 commands)"
+      "description": "Drawing and spec reading, RFIs, submittals, change orders, closeout, and construction-phase documents. (35 skills, 17 commands)"
     },
     {
       "name": "code-zoning",
@@ -17,12 +17,17 @@
     {
       "name": "design",
       "source": "./plugins/design",
-      "description": "Design review, programming, and early-stage layout skills. (35 skills, 1 commands)"
+      "description": "Design review, programming, and early-stage layout skills. (39 skills, 1 commands)"
     },
     {
       "name": "business",
       "source": "./plugins/business",
-      "description": "Contracts, fee estimates, and RFP responses. (3 skills, 0 commands)"
+      "description": "Contracts, fee estimates, and RFP responses. (4 skills, 0 commands)"
+    },
+    {
+      "name": "mcp-connections",
+      "source": "./plugins/mcp-connections",
+      "description": "Skills that connect Claude to Revit, Rhino, SketchUp, and Archicad through MCP, and fix those connections when they break. (4 skills, 0 commands)"
     }
   ]
 }

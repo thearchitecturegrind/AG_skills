@@ -1,0 +1,5 @@
+{
+  "name": "mcp-connections",
+  "version": "0.1.0",
+  "description": "Skills that connect Claude to Revit, Rhino, SketchUp, and Archicad through MCP, and fix those connections when they break. (4 skills, 0 commands)"
+}
